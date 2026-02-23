@@ -1,2 +1,3 @@
-# flex-cli-tool-4wxx
-Automated issue comment bot repository
+# Flex Cli Tool 4Wxx
+
+Automated issue comment bot repository.
